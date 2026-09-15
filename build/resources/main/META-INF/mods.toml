@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="ink_machine"
+version="1.0.0"
+displayName="Ink Machine"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="R3tr0___,Hugobema,Chinnwaise"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.ink_machine]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

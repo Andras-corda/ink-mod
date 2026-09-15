@@ -1,0 +1,31 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, Ink Machine]",
+      "[, Ink Machine, Source (Gradle)]",
+      "[, Ink Machine, Source (Gradle), C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net]",
+      "[, Ink Machine, Source (Gradle), C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net, C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net\\mcreator]",
+      "[, Ink Machine, Source (Gradle), C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net, C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net\\mcreator, C:\\Users\\Andra\\Documents\\Dev\\ink-mod\\src\\main\\java\\net\\mcreator\\inkmachine]"
+    ]
+  },
+  "leftDockState": {
+    "expandedDock": "project_browser",
+    "dockSizes": {
+      "project_browser": 280,
+      "local_history": 280
+    }
+  },
+  "rightDockState": {
+    "dockSizes": {}
+  },
+  "bottomDockState": {
+    "dockSizes": {
+      "console": 300,
+      "code_viewer": 300,
+      "debugger": 300
+    }
+  }
+}
