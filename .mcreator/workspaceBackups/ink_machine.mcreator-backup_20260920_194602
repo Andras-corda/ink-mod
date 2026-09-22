@@ -9,8 +9,8 @@
   },
   "metadata": {
     "files": [
-      "src/main/resources/pack.mcmeta",
       "src/main/java/net/mcreator/inkmachine/InkMachineMod.java",
+      "src/main/resources/pack.mcmeta",
       "src/main/resources/META-INF/mods.toml"
     ]
   },

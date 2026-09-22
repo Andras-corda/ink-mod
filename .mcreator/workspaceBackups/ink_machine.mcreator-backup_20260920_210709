@@ -1,36 +1,15 @@
 {
   "mod_elements": [
     {
-      "name": "S",
+      "name": "P",
       "type": "procedure",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "s",
+      "registry_name": "p",
       "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
+        "dependencies": [],
         "files": [
-          "src/main/java/net/mcreator/inkmachine/procedures/SProcedure.java"
-        ]
-      }
-    },
-    {
-      "name": "C",
-      "type": "command",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "c",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/inkmachine/command/CCommand.java"
+          "src/main/java/net/mcreator/inkmachine/procedures/PProcedure.java"
         ]
       }
     }

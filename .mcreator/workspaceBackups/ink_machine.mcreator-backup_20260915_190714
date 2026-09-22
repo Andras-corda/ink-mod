@@ -9,8 +9,8 @@
   },
   "metadata": {
     "files": [
-      "src/main/resources/pack.mcmeta",
       "src/main/java/net/mcreator/inkmachine/InkMachineMod.java",
+      "src/main/resources/pack.mcmeta",
       "src/main/resources/META-INF/mods.toml"
     ]
   },
@@ -22,15 +22,16 @@
     "modid": "ink_machine",
     "modName": "Ink Machine",
     "version": "1.0.0",
-    "author": "MCreator",
+    "author": "R3tr0___,Hugobema,Chinnwaise",
     "websiteURL": "https://mcreator.net",
-    "license": "Not specified",
+    "license": "MIT License",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.inkmachine"
   },
   "mcreatorVersion": 202600233518
